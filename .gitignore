@@ -1,0 +1,22 @@
+# 本地临时文件
+shots/
+shot_*.png
+*.log
+__pycache__/
+*.pyc
+
+# 临时 HTML 副本(截图脚本生成)
+_*.html
+
+# 一次性的临时脚本
+dl*.py
+opt*.py
+calc*.py
+patch*.py
+verify.py
+dbg.py
+analyze.py
+crop.py
+shoot*.py
+shoot*.ps1
+shot_pw.py
